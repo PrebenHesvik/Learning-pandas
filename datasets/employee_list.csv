@@ -1,0 +1,101 @@
+employee_number,name,company,country,dob,age,department,salary,has_parking_space
+897028,Kenneth Jensen,Wilson and Sons,India,1983-07-03,38,Management,124790,False
+463979,Sarah Anderson,"Hernandez, Cunningham and Clark",India,1980-08-09,41,Consulting,103122,True
+388446,Tracie Rollins,"Hernandez, Cunningham and Clark",Cayman Islands,1987-07-29,34,Consulting,119072,False
+267447,Seth Smith,Spears-Brown,Germany,1969-03-04,52,System Architect,115653,False
+401300,Katherine Fields,"Hernandez, Cunningham and Clark",Venezuela,1980-01-26,42,Finance,119412,False
+930543,Katherine Evans,Spears-Brown,Cayman Islands,1972-08-31,49,Finance,113570,True
+646135,Jonathan Brown,Wilson and Sons,USA,1969-06-05,52,Developer,77451,False
+426293,Erin Simmons,Wilson and Sons,Suriname,1982-04-29,39,System Architect,76193,True
+587088,David Dunn,"Hernandez, Cunningham and Clark",Japan,1989-12-18,32,Management,96973,False
+840921,Richard Harris,Wilson and Sons,Cayman Islands,1977-07-17,44,Developer,108376,True
+361949,Laura Lane,Wilson and Sons,India,1990-07-13,31,Developer,89915,True
+655480,Michelle Deleon,"Hernandez, Cunningham and Clark",Mauritania,1977-03-14,44,System Architect,105311,False
+288748,Megan Gentry,"Hernandez, Cunningham and Clark",Cayman Islands,1981-07-17,40,Management,112279,False
+869838,Benjamin Snyder,Spears-Brown,Japan,1968-04-10,53,System Architect,133943,True
+492443,Carlos Lawrence,Spears-Brown,Suriname,1976-11-24,45,Developer,108667,False
+325975,Patrick Gonzales,"Hernandez, Cunningham and Clark",USA,1976-05-28,45,Management,78081,False
+776086,Angela Adams,"Hernandez, Cunningham and Clark",Mauritania,1979-05-23,42,Finance,123478,False
+133141,Andrew Johnson,Wilson and Sons,Japan,1975-05-29,46,System Architect,128330,False
+471885,Kimberly Williams,"Hernandez, Cunningham and Clark",Cayman Islands,1971-08-21,50,Consulting,118495,True
+821821,Jared Summers,Spears-Brown,USA,1982-10-28,39,Consulting,112803,False
+830747,Laura Jones,Wilson and Sons,USA,1976-02-15,45,Consulting,127183,True
+207726,Bruce Crawford,Spears-Brown,Venezuela,1969-01-04,53,Consulting,78198,False
+306609,Laurie Rodriguez,"Hernandez, Cunningham and Clark",Mauritania,1972-03-07,49,Consulting,93051,False
+425959,Amy Mitchell,"Hernandez, Cunningham and Clark",Suriname,1975-09-30,46,System Architect,99776,False
+541607,Tammy Fowler,Spears-Brown,India,1978-10-08,43,Finance,129674,True
+848232,Elizabeth Sanders,Wilson and Sons,Israel,1987-08-19,34,Developer,92050,True
+606859,Keith Vargas,Spears-Brown,Germany,1985-06-20,36,Developer,75924,False
+379723,Andrew Hodge,"Hernandez, Cunningham and Clark",India,1983-10-09,38,Consulting,124667,True
+484392,Robert Carey,Wilson and Sons,Japan,1972-02-25,49,Consulting,131898,True
+794549,Arthur Proctor,Spears-Brown,Suriname,1977-04-22,44,Developer,85364,False
+675052,Rachael Mitchell,Wilson and Sons,India,1972-09-20,49,System Architect,127898,True
+254128,Larry Robinson,Wilson and Sons,India,1970-04-19,51,Management,89521,True
+989572,Douglas Ramirez,Spears-Brown,Japan,1972-06-02,49,System Architect,90871,True
+291980,Phyllis Johnson,"Hernandez, Cunningham and Clark",Mauritania,1977-07-28,44,System Architect,107866,False
+267914,Julie Craig,Wilson and Sons,Venezuela,1968-02-08,53,System Architect,131134,True
+887998,Ronald Ray,Wilson and Sons,Venezuela,1976-06-07,45,Developer,112340,True
+791480,Andrew Rivera,"Hernandez, Cunningham and Clark",Israel,1969-01-22,53,Finance,86820,True
+463345,Ricardo Blackburn,Wilson and Sons,Germany,1974-05-30,47,Consulting,118115,True
+248013,Chase Morrison,Spears-Brown,Venezuela,1985-12-12,36,System Architect,122285,False
+227851,Tiffany Adkins,Wilson and Sons,USA,1974-10-10,47,Management,109596,True
+624744,Catherine Livingston,"Hernandez, Cunningham and Clark",Mauritania,1973-04-12,48,System Architect,129956,False
+116767,Diana Brown,Spears-Brown,Israel,1989-09-23,32,System Architect,126015,True
+907813,Jennifer Thompson,"Hernandez, Cunningham and Clark",USA,1974-05-04,47,System Architect,88839,True
+674256,Charles Williams,Spears-Brown,India,1969-03-27,52,System Architect,85485,False
+550539,Claudia Johnson,Wilson and Sons,Japan,1989-11-14,32,Finance,100316,True
+337826,Lauren Bowers,Wilson and Sons,Israel,1984-07-11,37,Finance,79263,False
+422882,Erica Moses,Wilson and Sons,Germany,1986-01-14,36,System Architect,83403,False
+172405,Jason Washington,Spears-Brown,Suriname,1986-09-12,35,Management,133602,False
+410116,Glenn Cervantes,Wilson and Sons,USA,1971-11-22,50,Developer,117387,False
+187411,Sophia Wallace,Spears-Brown,Suriname,1970-05-09,51,Management,129093,True
+363651,James Baldwin,Spears-Brown,Mauritania,1989-01-18,33,Management,132410,True
+136224,Timothy Alexander,"Hernandez, Cunningham and Clark",USA,1985-10-01,36,System Architect,100586,False
+311479,Steven Andrews,Spears-Brown,India,1971-04-04,50,Finance,77945,False
+358248,Nicholas May,"Hernandez, Cunningham and Clark",USA,1989-03-25,32,Management,131896,True
+354070,Justin Rodriguez,Wilson and Sons,Mauritania,1975-04-29,46,System Architect,111060,False
+352732,Joseph Turner,Wilson and Sons,Japan,1983-08-19,38,System Architect,117569,True
+531876,Virginia Warren,"Hernandez, Cunningham and Clark",Israel,1981-06-26,40,Finance,128194,False
+120088,Allison Hall,Wilson and Sons,Israel,1987-02-04,34,Consulting,113536,False
+100008,Susan Horn,"Hernandez, Cunningham and Clark",Suriname,1968-12-15,53,System Architect,86788,True
+136959,Tamara Hopkins,"Hernandez, Cunningham and Clark",USA,1981-07-28,40,Management,80385,False
+920539,Robert Wang,"Hernandez, Cunningham and Clark",Suriname,1986-10-21,35,Finance,94036,False
+979065,Austin Welch,Wilson and Sons,Mauritania,1987-11-11,34,Consulting,130932,True
+172167,Linda Page,Spears-Brown,Israel,1968-11-06,53,Finance,98920,False
+184737,Kathleen Lambert,Spears-Brown,Venezuela,1972-10-25,49,Developer,126102,True
+851465,Lindsay Smith,"Hernandez, Cunningham and Clark",Germany,1977-04-06,44,Developer,84849,True
+664316,Logan Garcia,"Hernandez, Cunningham and Clark",USA,1973-03-08,48,Developer,121975,False
+302247,Christine Perez,Wilson and Sons,Venezuela,1973-06-29,48,Management,134840,False
+672534,Mark Williams,"Hernandez, Cunningham and Clark",India,1988-02-02,33,Finance,108659,False
+627093,Jessica Smith,Spears-Brown,Venezuela,1987-03-20,34,Finance,95108,False
+460868,Jeremy Cook,Wilson and Sons,Israel,1989-02-08,32,Management,133361,True
+919280,Victoria Nguyen,"Hernandez, Cunningham and Clark",Mauritania,1980-04-18,41,Finance,102394,False
+286153,Jennifer Vasquez,Spears-Brown,Mauritania,1982-09-01,39,Management,122630,True
+606604,Andrew Strickland,Wilson and Sons,Venezuela,1977-01-31,45,Finance,88308,True
+771922,Kelsey Lee,Spears-Brown,India,1974-07-17,47,Consulting,133354,False
+606207,Omar Patterson,"Hernandez, Cunningham and Clark",Suriname,1985-01-24,37,Consulting,99832,False
+534247,Cassandra Ramirez,Spears-Brown,Suriname,1976-07-25,45,System Architect,76362,False
+933874,Zachary Gallagher,"Hernandez, Cunningham and Clark",Germany,1972-08-11,49,Management,112137,True
+122753,Mr. John Nash,"Hernandez, Cunningham and Clark",Suriname,1980-10-05,41,Developer,90809,False
+804572,Rhonda Smith,"Hernandez, Cunningham and Clark",India,1983-07-13,38,Finance,75344,True
+517088,Martin Levy,Spears-Brown,Japan,1972-02-14,49,Management,123681,False
+703509,Lisa Phillips,Spears-Brown,Japan,1990-09-05,31,Management,103309,False
+250029,Jennifer Rodgers,"Hernandez, Cunningham and Clark",Germany,1980-08-21,41,Developer,108389,False
+990054,Elizabeth Foster,Wilson and Sons,Mauritania,1983-01-28,39,Developer,84062,True
+476837,Brent Brennan,Spears-Brown,Suriname,1986-09-21,35,Management,120022,True
+567812,Robin Mcmahon,Wilson and Sons,Israel,1979-10-07,42,Management,94331,True
+325973,Cynthia Dickerson,Spears-Brown,Suriname,1976-04-23,45,Finance,109171,False
+414171,Amber Sloan,"Hernandez, Cunningham and Clark",Germany,1982-11-08,39,Consulting,100644,False
+918309,Jeffrey James,"Hernandez, Cunningham and Clark",Cayman Islands,1985-12-31,36,Management,79541,False
+756635,Elizabeth Bush,"Hernandez, Cunningham and Clark",USA,1974-09-08,47,System Architect,123619,True
+560416,Justin Anderson,Spears-Brown,India,1971-12-19,50,Developer,75715,True
+701315,Michael Fischer,Wilson and Sons,India,1971-08-24,50,System Architect,106773,False
+993877,Jason Baxter,Wilson and Sons,Japan,1976-12-16,45,Consulting,126594,False
+140866,Joyce Lucas,Spears-Brown,Japan,1975-05-26,46,Developer,117384,False
+901656,Alex Rodriguez,"Hernandez, Cunningham and Clark",Israel,1975-11-08,46,System Architect,132988,True
+589974,Martha Martin,"Hernandez, Cunningham and Clark",Cayman Islands,1969-06-11,52,Finance,98668,False
+238955,Travis Wallace,Spears-Brown,USA,1975-04-09,46,Developer,129124,True
+683924,Christopher Barnett,Wilson and Sons,Mauritania,1989-10-18,32,Management,123480,True
+628844,Elizabeth Thomas,Spears-Brown,Cayman Islands,1990-06-30,31,System Architect,77442,True
+980867,Anthony Woods,Spears-Brown,Mauritania,1977-07-09,44,Management,95510,False
+452246,Kevin Hall,Spears-Brown,USA,1976-01-26,46,Finance,130051,False
